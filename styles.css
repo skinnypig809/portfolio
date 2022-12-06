@@ -108,8 +108,9 @@ li a:hover:not(.active) {
 }
 .comment{
   position: absolute;
-  left: 55vw;
-  bottom:39vh;
+  width: 100%;
+  text-align: center;
+  bottom:25vh;
   font-size: 1.3em;
   color: white;
   transform: scale(1.2);
@@ -250,7 +251,7 @@ li a:hover:not(.active) {
   margin-left: 10%;
 }
 .card-title{
-  margin-top: 15%;
+  margin-top: 13%;
   font-size: 2em;  
   font-weight: 600;
 }
@@ -258,13 +259,13 @@ li a:hover:not(.active) {
   font-size: 1em;  
   color: #777;
   width: 90%;
-  margin-top: 10%;
+  margin-top: 8%;
 }
 .explore{
   font-weight: 600;
   text-decoration: underline;
   font-size: 18px;  
-  margin-top: 10%;
+  margin-top: 8%;
   
 }
 a{
