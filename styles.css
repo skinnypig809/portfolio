@@ -110,7 +110,7 @@ li a:hover:not(.active) {
   position: absolute;
   width: 100%;
   text-align: center;
-  bottom:25vh;
+  bottom:18vh;
   font-size: 1.3em;
   color: white;
   transform: scale(1.2);
@@ -316,7 +316,7 @@ a{
 .content-img2{
   height: 60vh;
   width: 30vw;
-  margin-right: -100px;
+  margin-right: -5vw;
 }
 
 .content-content{
@@ -326,19 +326,18 @@ a{
 .content-title{
   font-size: 2.8em;  
   font-weight: 600;
-  margin-bottom: 50px;
 }
 .content-subtitle{
-  margin-top: 4%;
+  margin-top: 1.5em;
   font-size: 1.5em;  
   font-weight: 600;
 }
 .content-text{
   margin-top: 1em;
-  font-size: 18px;  
+  font-size: 1em;  
 }
 .link{
-  margin-top: 5%;
+  margin-top: 3%;
   font-size: 1em;  
 }
 
