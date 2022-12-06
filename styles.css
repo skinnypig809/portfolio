@@ -99,7 +99,7 @@ li a:hover:not(.active) {
 
 .sp{
   position: absolute;
-  font-size: 300px;
+  font-size: 18em;
   color: white;
   width: 100%;
   text-align: center;
@@ -108,9 +108,9 @@ li a:hover:not(.active) {
 }
 .comment{
   position: absolute;
-  left: 1050px;
-  bottom:350px;
-  font-size: 20px;
+  left: 55vw;
+  bottom:39vh;
+  font-size: 1.3em;
   color: white;
   transform: scale(1.2);
   opacity: 0;
@@ -251,11 +251,11 @@ li a:hover:not(.active) {
 }
 .card-title{
   margin-top: 15%;
-  font-size: 35px;  
+  font-size: 2em;  
   font-weight: 600;
 }
 .card-text{
-  font-size: 18px;  
+  font-size: 1em;  
   color: #777;
   width: 90%;
   margin-top: 10%;
