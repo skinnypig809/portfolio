@@ -108,8 +108,8 @@ li a:hover:not(.active) {
 }
 .comment{
   position: absolute;
-  top:60%;
-  left:56%;
+  left: 1050px;
+  bottom:350px;
   font-size: 20px;
   color: white;
   transform: scale(1.2);
@@ -198,8 +198,8 @@ li a:hover:not(.active) {
   opacity: 0;
   margin-left: 20%;
   margin-top: 10%;
-  width: 60%;
-  height: 400px;
+  width: 60%; 
+  height: 40vh;
   background-color: white;
   border-radius: 10px;
   display: flex;
@@ -210,7 +210,7 @@ li a:hover:not(.active) {
   margin-left: 20%;
   margin-top: 10%;
   width: 60%;
-  height: 400px;
+  height: 40vh;
   background-color: white;
   border-radius: 10px;
   display: flex;
@@ -221,7 +221,7 @@ li a:hover:not(.active) {
   margin-left: 20%;
   margin-top: 10%;
   width: 60%;
-  height: 400px;
+  height: 40vh;
   background-color: white;
   border-radius: 10px;
   display: flex;
@@ -232,7 +232,7 @@ li a:hover:not(.active) {
   margin-left: 20%;
   margin-top: 10%;
   width: 60%;
-  height: 400px;
+  height: 40vh;
   background-color: white;
   border-radius: 10px;
   display: flex;
@@ -240,31 +240,31 @@ li a:hover:not(.active) {
 }
 
 .card-img{
-  height: 400px;
+  height: 100%;
   width: 40%;
   border-radius: 10px;
   margin-left: 5%;
 }
 
 .card-content{
-  margin-left: 80px;
+  margin-left: 10%;
 }
 .card-title{
-  margin-top: 100px;
+  margin-top: 15%;
   font-size: 35px;  
   font-weight: 600;
 }
 .card-text{
   font-size: 18px;  
   color: #777;
-  width: 500px;
-  margin-top: 50px;
+  width: 90%;
+  margin-top: 10%;
 }
 .explore{
   font-weight: 600;
   text-decoration: underline;
   font-size: 18px;  
-  margin-top: 50px;
+  margin-top: 10%;
   
 }
 a{
