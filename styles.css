@@ -1,5 +1,5 @@
 body {margin:0;
-  height: 100%;
+  
   
 }
 html *
@@ -307,6 +307,7 @@ a{
   display: flex;
   padding-top: 10%;
   padding-left: 10%;
+  height: auto;
 
 }
 .content-img{
