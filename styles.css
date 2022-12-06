@@ -310,36 +310,36 @@ a{
 
 }
 .content-img{
-  height: 600px;
-  width: 500px;
+  height: 60vh;
+  width: 25vw;
 }
 .content-img2{
-  height: 600px;
-  width: 600px;
+  height: 60vh;
+  width: 30vw;
   margin-right: -100px;
 }
 
 .content-content{
-  margin-left: 200px;
-  width: 800px;
+  margin-left: 10%;
+  width: 50%;
 }
 .content-title{
-  font-size: 35px;  
+  font-size: 2.8em;  
   font-weight: 600;
   margin-bottom: 50px;
 }
 .content-subtitle{
-  margin-top: 20px;
-  font-size: 25px;  
+  margin-top: 4%;
+  font-size: 1.5em;  
   font-weight: 600;
 }
 .content-text{
-  margin-top: 20px;
+  margin-top: 1em;
   font-size: 18px;  
 }
 .link{
-  margin-top: 50px;
-  font-size: 18px;  
+  margin-top: 5%;
+  font-size: 1em;  
 }
 
 .icon {
@@ -360,7 +360,7 @@ a{
   margin-top: -10px;
   color: #333;
   width: 150px;
-  font-size: 15px;
+  font-size: 1em;
   font-weight: 600;
 }
 .arrow2 {
